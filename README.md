@@ -1,6 +1,6 @@
-# api_teolia
+# Api_teolia
 
-<h1>Mettre en ligne son API</h1>
+<h1>Mettre en ligne son API avec Heroku</h1>
 
 <p>Pour pouvoir mettre en ligne mon API, J'ai dû créer un nouveau repository que j'ai appellé <code>api_teolia</code></p>
 
