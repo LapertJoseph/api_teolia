@@ -7,6 +7,6 @@
 <p>J'ai rencontré une problématique sur le fork de l'api, en effet lorsque je pushais sur le repo d'heroku.
   Je rencontrais une erreur m'indiquant que le <code>package.json</code> était introuvable.
 </p>
-<p>En effectuant une recherche sur internet, j'ai trouvé un post sur Stackoverflow qui me proposer la solution suivante : (<a href="http://google.com">http://www.google.com</a>) <br/> 
+<p>En effectuant une recherche sur internet, j'ai trouvé un post sur Stackoverflow qui me proposer la solution suivante : (<a href="https://stackoverflow.com/questions/43362014/heroku-no-default-language-could-be-detected-for-this-app-error-thrown-for-no">Heroku: "No default language could be detected for this app" error thrown for node app</a>) <br/> 
   Créer un autre repo pour l'api et la mettre sur github, ainsi éviter les soucis de compilation lors du push sur Heroku.
 </p>
